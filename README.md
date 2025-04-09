@@ -31,4 +31,4 @@ SCSS
 
 ## 💻​ Projeto Online
 
-Acesse o projeto aqui👉​ [Space Scene](https://solar-system-observation.netlify.app/)
+Acesse o projeto aqui👉​ [Space Scene](https://space-scene.netlify.app/)
